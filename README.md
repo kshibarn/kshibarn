@@ -25,6 +25,7 @@ I'm a CSE undergrad student at my pre final year at Sathyabama Institute of Scie
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" **alt="OpenCV" width="40" height="40"/>
 </div>
 
+# Stats Card
 [![Kshitij's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshibarn&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kshibarn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
